@@ -1,3 +1,3 @@
 # Preferencias
 
-Las preferencias con sonfiguraciones en el comportamiento de los distintos módulos del sistema para adaptarlo a sus propias necesidades.
+Las preferencias son configuraciones en el comportamiento de los distintos módulos del sistema para adaptarlo a las necesidades distintas de los clientes.
